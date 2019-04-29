@@ -37,4 +37,4 @@ download python software- [clickhere](https://www.python.org/downloads/)
 
 ## Task-3 Difference in date for given two dates in YYYY:MM:DD format[Open Program here](https://github.com/SANASUDHA/Programming-in-Python/blob/master/dateformat.py)
 
-## Task-4 Difference in time for given two timingss in HH:MM:SS format[Open Program here](https://github.com/SANASUDHA/Programming-in-Python/blob/master/timeformat.py)
+## Task-4 Difference in time for given two times in HH:MM:SS format[Open Program here](https://github.com/SANASUDHA/Programming-in-Python/blob/master/timeformat.py)
